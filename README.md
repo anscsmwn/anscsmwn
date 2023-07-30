@@ -12,8 +12,8 @@
 - Love to explore anything about technology, but focused more on **web technologies**. :rocket:
 
 ## ⭐ Statistics
-![Anca's GitHub stats](https://github-readme-stats.vercel.app/api?username=aancaa&show_icons=true&theme=nightowl)
-![Anca's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aancaa&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anscsmwn&show_icons=true&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anscsmwn&exclude_repo=Slims9-Kuningan&layout=compact&theme=nightowl)
 
 ## 🛠 Languages and Tools  
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
