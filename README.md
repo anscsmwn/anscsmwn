@@ -1,4 +1,4 @@
-<h3 align="center">:wave: Hi! I'm Anca</h3>
+<h3 align="center">:wave: Hi!</h3>
 
 <p align="center">
     <a href="https://anscsmwn-dev.vercel.app/projects">Project</a> |  
